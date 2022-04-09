@@ -2,6 +2,6 @@ This is a first stage prototype for classifying nuetrino recoil vs weak eletrica
 
 Below is the metrics for the current best performing model.
 
-<img src="bestSoFar.png"
+<img src="performanceSoFar.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
