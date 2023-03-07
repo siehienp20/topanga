@@ -1,4 +1,4 @@
-This is a first stage prototype for classifying nuetrino recoil vs weak eletrical recoil.
+This is a first stage prototype for classifying nuclear recoil vs electric recoil.
 
 Below is the metrics for the current best performing model.
 
